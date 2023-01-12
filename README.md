@@ -1,2 +1,1 @@
-# ds_algo_intro
-Data Structures and Algorithms Introduction 🧠 👨‍💻 👩‍💻 🎓 💪
+#### Please visit the wiki for more info https://github.com/muhamed-hassan/ds_algo_intro/wiki
