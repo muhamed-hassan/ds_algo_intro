@@ -12,6 +12,5 @@ Avoid [formules-syndrome](https://github.com/muhamed-hassan/production_deploymen
 **`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
 
 ***
-***
 
 ![anime_viral_mostviewed_viralpost_dbz_naratu_watch_by_koli10_dfg9ydp](https://github.com/user-attachments/assets/d777fed8-9b20-4705-b57d-3d0968559e98)
