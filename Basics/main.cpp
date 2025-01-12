@@ -22,7 +22,7 @@ int main() {
 
     /** Move to here later and comment/uncomment one-function-call by one */
     //displayProgramOneAnalysis();
-    //displayProgramTwoAnalysis();
+    displayProgramTwoAnalysis();
     //displayProgramThreeAnalysis();
     //displayProgramFourAnalysis();
     //displayProgramFiveAnalysis();
@@ -70,7 +70,7 @@ void displayProgramTwoAnalysis() {
     */
 
     // Inputs => assume it has been entered via the user
-    float miles = 96;
+    int miles = 96;
 
     // Processing
     float kilometers = 1.6 * miles;
