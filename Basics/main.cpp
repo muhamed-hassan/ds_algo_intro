@@ -88,7 +88,7 @@ void displayProgramThreeAnalysis() {
     */
 
     // Inputs => assume they have been entered via the user
-    float balance = 1000;
+    int balance = 1000;
     float annualInterestRate = 3.5;
 
     // Processing
