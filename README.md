@@ -5,7 +5,7 @@ Avoid [formules-syndrome](https://github.com/muhamed-hassan/production_deploymen
 ***
 ***
 
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/ds_algo_intro/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/ds_algo_intro/wiki) for more info
 
 ***
 
